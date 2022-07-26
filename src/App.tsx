@@ -7,7 +7,7 @@ const App: Component = () => {
   return (
     <div class="">
       <header class="">
-        <h1 class="">Blog</h1>
+        <h1 class="text-2xl">Blog</h1>
       </header>
     </div>
   );
