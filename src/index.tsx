@@ -23,14 +23,14 @@ render(
         <meta name="format-detection" content="telephone=no" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="msapplication-TileColor" content="#000000" />
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/assets/favicon.ico" />
+        <link rel="icon" href="/assets/favicon.ico" />
         <link
           rel="apple-touch-icon"
-          href="/apple-touch-icon.png"
+          href="/assets/apple-touch-icon.png"
           sizes="180x180"
         />
-        <link rel="mask-icon" href="/mask-icon.svg" color="#FFFFFF" />
+        <link rel="mask-icon" href="/assets/mask-icon.svg" color="#FFFFFF" />
         <meta name="theme-color" content="#ffffff" />
       </head>
       <App />
