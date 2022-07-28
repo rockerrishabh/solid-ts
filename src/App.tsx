@@ -8,6 +8,7 @@ const App: Component = () => {
     <div class="">
       <header class="">
         <h1 class="text-2xl">Blog</h1>
+        <p>hffhghghhj</p>
       </header>
     </div>
   );
